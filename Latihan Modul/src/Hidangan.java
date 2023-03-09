@@ -1,7 +1,7 @@
 public class Hidangan {
     protected String namaHidangan;
 
-    public string getNamaHidangan(){
+    public String getNamaHidangan(){
         return namaHidangan;
     }
 
